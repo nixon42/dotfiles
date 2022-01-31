@@ -17,13 +17,13 @@
  <li>other to compile dwm-flexipatch</l>
 </ul>
 <h3>[HOW TO]</h3>
- 1. copy content of  .config, .local, .xinitrc, and bash.rc to your home folder
- 2. compile and install dwm-flexipatch, st-flexipatch, and dmenu-flexiaptch
-    + <code>cd dwm-flexipatch && sudo make install && cd ..</code>
-    + <code>cd st-flexipatch && sudo make install && cd ..</code>
-    + <code>cd -flexipatch && sudo make install && cd ..</code>
- 3. copy your wallpaper to <code>~/Picture/wallpapers</code>
- 4. relog
+ 1. copy content of  .config, .local, .xinitrc, and bash.rc to your home folder<br>
+ 2. compile and install dwm-flexipatch, st-flexipatch, and dmenu-flexiaptch<br>
+    + <code>cd dwm-flexipatch && sudo make install && cd ..</code><br>
+    + <code>cd st-flexipatch && sudo make install && cd ..</code><br>
+    + <code>cd -flexipatch && sudo make install && cd ..</code><br>
+ 3. copy your wallpaper to <code>~/Picture/wallpapers</code><br>
+ 4. relog<br>
 
 <h3>[FEATURE]</h3>
  1. preset on empty tag, press 1, 2, or 3<br>
