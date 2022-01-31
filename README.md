@@ -27,8 +27,8 @@
 
 <h3>[FEATURE]</h3>
  1. preset on empty tag, press 1, 2, or 3<br>
-    + customise in <code>dwm-flexipatch/config.h</code> edit ON_EMPTY_KEY_PATCH<br>
-    + modify script in .local/bin<br>
+    &nbsp;+ customise in <code>dwm-flexipatch/config.h</code> edit ON_EMPTY_KEY_PATCH<br>
+    &nbsp;+ modify script in .local/bin<br>
  2. set wallpaper in .xinitrc<br>
  3. transparent all window, set on <code>.config/picom/picom.conf</code><br>
  4. rounded corner, set on <code>.config/picom/picom.conf</code><br>
