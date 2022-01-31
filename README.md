@@ -17,7 +17,7 @@
  <li>other to compile dwm-flexipatch</l>
 </ul>
 <h3>[HOW TO]</h3>
- 0. clone this repo <code>git clone --recursive https://github.com/nixon42/dotfiles</code>
+ 0. clone this repo <code>git clone --recursive https://github.com/nixon42/dotfiles</code><br>
  1. copy content of  .config, .local, .xinitrc, and bash.rc to your home folder<br>
  2. clone, compile and install dwm-flexipatch, st-flexipatch, and dmenu-flexiaptch<br>
     &nbsp;+ <code>cd dwm-flexipatch && sudo make install && cd ..</code><br>
