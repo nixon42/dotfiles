@@ -18,10 +18,10 @@
 </ul>
 <h3>[HOW TO]</h3>
  1. copy content of  .config, .local, .xinitrc, and bash.rc to your home folder<br>
- 2. compile and install dwm-flexipatch, st-flexipatch, and dmenu-flexiaptch<br>
-    &nbsp;+ <code>cd dwm-flexipatch && sudo make install && cd ..</code><br>
-    &nbsp;+ <code>cd st-flexipatch && sudo make install && cd ..</code><br>
-    &nbsp;+ <code>cd -flexipatch && sudo make install && cd ..</code><br>
+ 2. clone, compile and install dwm-flexipatch, st-flexipatch, and dmenu-flexiaptch<br>
+    &nbsp;+ <code>git clone https://github.com/bakkeby/dwm-flexipatch && cd dwm-flexipatch && sudo make install && cd ..</code><br>
+    &nbsp;+ <code>git clone https://github.com/bakkeby/st-flexipatch && cd st-flexipatch && sudo make install && cd ..</code><br>
+    &nbsp;+ <code>git clone https://github.com/bakkeby/dmenu-flexipatch && cd -flexipatch && sudo make install && cd ..</code><br>
  3. copy your wallpaper to <code>~/Picture/wallpapers</code><br>
  4. relog<br>
 
