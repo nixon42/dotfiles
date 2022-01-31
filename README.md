@@ -1,20 +1,21 @@
 <h2>## MY DOTFILE</h2>
-<img href="https://github.com/nixon42/dotfiles/Pictures/screenshot/00.png">
+<img src="https://github.com/nixon42/dotfiles/Pictures/screenshot/00.png">
 <h3>[SETUP]</h2>
 <ul>
- <li>+ vanilla arch linux</li>
- <li>+ dwm-flexipatch</li>
- <li>+ st-flexipatch</li>
- <li>+ dmenu-flexipatch</li>
- <li>+ picom</li>
- <li>+ nordic-wallpaer</li>
+ <li>vanilla arch linux</li>
+ <li>dwm-flexipatch</li>
+ <li>st-flexipatch</li>
+ <li>dmenu-flexipatch</li>
+ <li>picom</li>
+ <li>nordic-wallpaer</li>
 </ul>
 <h3>[DEPENDENCIES]</h3>
- + tty-clock
- + feh
- + build-essential
- + other to compile dwm-flexipatch
-
+<ul>
+ <li>tty-clock</li>
+ <li>feh</li>
+ <li>build-essential</li>
+ <li>other to compile dwm-flexipatch</l>
+</ul>
 <h3>[HOW TO]</h3>
  1. copy content of  .config, .local, .xinitrc, and bash.rc to your home folder
  2. compile and install dwm-flexipatch, st-flexipatch, and dmenu-flexiaptch
