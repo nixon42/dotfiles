@@ -1,0 +1,9 @@
+[submodule "dwm-flexipatch"]
+	path = dwm-flexipatch
+	url = https://github.com/bakkeby/dwm-flexipatch
+[submodule "st-flexipatch"]
+	path = st-flexipatch
+	url = https://github.com/bakkeby/st-flexipatch
+[submodule "dmenu-flexipatch"]
+	path = dmenu-flexipatch
+	url = https://github.com/bakkeby/dmenu-flexipatch
