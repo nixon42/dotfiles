@@ -26,16 +26,18 @@
  4. relog
 
 <h3>[FEATURE]</h3>
- 1. preset on empty tag, press 1, 2, or 3
-    + customise in <code>dwm-flexipatch/config.h</code> edit ON_EMPTY_KEY_PATCH
-    + modify script in .local/bin
- 2. set wallpaper in .xinitrc
- 3. transparent all window, set on <code>.config/picom/picom.conf</code>
- 4. rounded corner, set on <code>.config/picom/picom.conf</code>
- 5. blur, set on <code>.config/picom/picom.conf</code>
+ 1. preset on empty tag, press 1, 2, or 3<br>
+    + customise in <code>dwm-flexipatch/config.h</code> edit ON_EMPTY_KEY_PATCH<br>
+    + modify script in .local/bin<br>
+ 2. set wallpaper in .xinitrc<br>
+ 3. transparent all window, set on <code>.config/picom/picom.conf</code><br>
+ 4. rounded corner, set on <code>.config/picom/picom.conf</code><br>
+ 5. blur, set on <code>.config/picom/picom.conf</code><br>
 
 <h3>[CREDIT]</h3>
- + https://github.com/bakkeby/dwm-flexipatch
- + https://github.com/bakkeby/st-flexipatch
- + https://github.com/bakkeby/dmenu-flexipatch
- + https://github.com/linuxdotexe/nordic-wallpapers
+<ul>
+ <li>https://github.com/bakkeby/dwm-flexipatch</li>
+ <li>https://github.com/bakkeby/st-flexipatch</li>
+ <li>https://github.com/bakkeby/dmenu-flexipatch</li>
+ <li>https://github.com/linuxdotexe/nordic-wallpapers</li>
+</ul>
