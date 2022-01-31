@@ -1,5 +1,5 @@
 <h2>## MY DOTFILE</h2>
-![Screenshot](Pictures/screenshot/00.png)
+<p><img src="Pictures/screenshot/00.png"></p>
 <h3>[SETUP]</h2>
 <ul>
  <li>vanilla arch linux</li>
