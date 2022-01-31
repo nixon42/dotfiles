@@ -1,0 +1,3 @@
+#!/bin/bash
+st sh -c "neofetch && bash" &
+firefox

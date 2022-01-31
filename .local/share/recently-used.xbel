@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_nixon0/WhatsApp%20Image%202022-01-06%20at%2019.18.26.jpeg" added="2022-01-09T14:35:29.695376Z" modified="2022-01-09T14:35:29.695415Z" visited="2022-01-09T14:35:29.695378Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-09T14:35:29.695407Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_nixon0/42-159-1-PB.pdf" added="2022-01-09T15:36:05.718747Z" modified="2022-01-09T15:36:05.718780Z" visited="2022-01-09T15:36:05.718754Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-09T15:36:05.718762Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/psi.png" added="2022-01-10T05:45:12.636255Z" modified="2022-01-10T05:45:31.748012Z" visited="2022-01-10T05:45:12.636258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-10T05:45:31.748003Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/Alief%20Cahyo%20-%20UAS.pdf" added="2022-01-10T06:04:57.885710Z" modified="2022-01-10T06:04:57.885727Z" visited="2022-01-10T06:04:57.885713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-10T06:04:57.885720Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/Alief%20Cahyo%20-%20UAS(1).pdf" added="2022-01-10T06:05:16.524622Z" modified="2022-01-10T06:06:08.451278Z" visited="2022-01-10T06:05:16.524625Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-10T06:06:08.451268Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/samples_p260_00000.mp3" added="2022-01-12T07:00:42.063420Z" modified="2022-01-12T07:02:33.884253Z" visited="2022-01-12T07:00:42.063424Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-12T07:02:33.884242Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_nixon0/demo_output_00.wav" added="2022-01-12T07:09:25.179079Z" modified="2022-01-12T07:09:25.179125Z" visited="2022-01-12T07:09:25.179086Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-12T07:09:25.179110Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/demo_output_00.wav" added="2022-01-12T07:09:33.191882Z" modified="2022-01-12T07:09:33.191899Z" visited="2022-01-12T07:09:33.191886Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-12T07:09:33.191891Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/demo_output_01.wav" added="2022-01-12T07:13:01.395893Z" modified="2022-01-12T07:13:01.395922Z" visited="2022-01-12T07:13:01.395897Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-12T07:13:01.395911Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/%5BFull%5D%20Pidato%20Presiden%20Jokowi%20di%20HUT%20ke-49%20PDI%20Perjuangan%20(320%20kbps).ogx" added="2022-01-12T07:14:54.071901Z" modified="2022-01-12T07:15:40.325010Z" visited="2022-01-12T07:14:54.071903Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/ogg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-12T07:15:40.325002Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/demo_output_02.wav" added="2022-01-12T07:23:08.507596Z" modified="2022-01-12T07:23:08.507626Z" visited="2022-01-12T07:23:08.507600Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-12T07:23:08.507610Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/output.wav" added="2022-01-12T09:25:31.640822Z" modified="2022-01-12T09:25:31.640866Z" visited="2022-01-12T09:25:31.640828Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-12T09:25:31.640851Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/output(1).wav" added="2022-01-12T09:27:12.263119Z" modified="2022-01-12T09:27:12.263138Z" visited="2022-01-12T09:27:12.263122Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-12T09:27:12.263126Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/output(2).wav" added="2022-01-12T09:30:19.356065Z" modified="2022-01-12T09:30:19.356089Z" visited="2022-01-12T09:30:19.356068Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-12T09:30:19.356077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/output(3).wav" added="2022-01-12T09:31:54.854799Z" modified="2022-01-12T09:31:54.854821Z" visited="2022-01-12T09:31:54.854802Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-12T09:31:54.854810Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/demo_output_00(1).wav" added="2022-01-12T09:44:22.225669Z" modified="2022-01-12T09:44:22.225691Z" visited="2022-01-12T09:44:22.225673Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-wav"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-12T09:44:22.225681Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/artikel-pgri-ref.pdf" added="2022-01-17T05:42:28.208233Z" modified="2022-01-17T05:47:58.084921Z" visited="2022-01-17T05:42:28.208237Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-17T05:47:58.084913Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/artikel-pgri-ref(1).pdf" added="2022-01-17T05:42:43.058952Z" modified="2022-01-17T05:42:43.058965Z" visited="2022-01-17T05:42:43.058954Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-17T05:42:43.058959Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/v2ray-linux-64.zip" added="2022-01-17T14:30:29.527721Z" modified="2022-01-17T14:30:29.527740Z" visited="2022-01-17T14:30:29.527724Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-17T14:30:29.527729Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_nixon0/bug%20xl%20akrab%20axis%20xl%20conference%20(SFILE.MOBI).txt" added="2022-01-17T15:10:25.230777Z" modified="2022-01-17T15:10:25.230794Z" visited="2022-01-17T15:10:25.230779Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-17T15:10:25.230785Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/1642653458863.jpg" added="2022-01-20T04:53:35.552258Z" modified="2022-01-20T05:29:58.939337Z" visited="2022-01-20T04:53:35.552263Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-20T05:29:58.939323Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/Screenshot%202022-01-20%20at%2012-15-56%20Resume%20Builder.png" added="2022-01-20T05:16:24.481507Z" modified="2022-01-20T05:16:24.481532Z" visited="2022-01-20T05:16:24.481510Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-20T05:16:24.481522Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/Screenshot%202022-01-20%20at%2012-18-16%20Resume%20Builder.png" added="2022-01-20T05:18:29.721415Z" modified="2022-01-20T05:21:45.719778Z" visited="2022-01-20T05:18:29.721418Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-20T05:21:45.719770Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/png2pdf.pdf" added="2022-01-20T05:21:58.746106Z" modified="2022-01-20T05:22:46.298472Z" visited="2022-01-20T05:21:58.746109Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-20T05:22:46.298453Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/png2pdf(1).pdf" added="2022-01-20T05:22:08.571505Z" modified="2022-01-20T05:22:08.571665Z" visited="2022-01-20T05:22:08.571508Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-20T05:22:08.571516Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/Screenshot%202022-01-20%20at%2012-18-16%20Resume%20Builder.pdf" added="2022-01-20T05:22:09.900374Z" modified="2022-01-20T05:22:09.900390Z" visited="2022-01-20T05:22:09.900376Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-20T05:22:09.900381Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/tty-clock-2.3.tar.gz" added="2022-01-20T14:17:50.320697Z" modified="2022-01-20T14:17:50.320713Z" visited="2022-01-20T14:17:50.320699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-20T14:17:50.320706Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/Firefox%20Setup%2096.0.2.exe" added="2022-01-25T10:12:37.343516Z" modified="2022-01-25T10:12:37.343554Z" visited="2022-01-25T10:12:37.343536Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-25T10:12:37.343546Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/winbox64.exe" added="2022-01-25T10:15:55.970498Z" modified="2022-01-25T10:15:55.970522Z" visited="2022-01-25T10:15:55.970500Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-25T10:15:55.970514Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/PacketTracer-7.3.0-win64-setup.exe" added="2022-01-25T10:20:20.646092Z" modified="2022-01-25T10:20:20.646112Z" visited="2022-01-25T10:20:20.646095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-25T10:20:20.646102Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/rufus-3.17p.exe" added="2022-01-25T10:30:52.209538Z" modified="2022-01-25T10:30:52.209563Z" visited="2022-01-25T10:30:52.209542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-25T10:30:52.209553Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nixon/Downloads/ventoy-1.0.64-windows.zip" added="2022-01-25T10:32:51.099557Z" modified="2022-01-25T10:32:51.099587Z" visited="2022-01-25T10:32:51.099562Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-25T10:32:51.099573Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,5 @@
+#!/bin/sh
+#st
+st sh -c "neofetch && bash" &
+sleep 0.1
+st sh -c "btop && bash" 
