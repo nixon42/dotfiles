@@ -1,5 +1,5 @@
 <h2>## MY DOTFILE</h2>
-![all text](https://github.com/nixon42/dotfiles/Pictures/screenshot/00.png)
+<img href="https://github.com/nixon42/dotfiles/Pictures/screenshot/00.png">
 <h3>[SETUP]</h2>
 <ul>
  <li>+ vanilla arch linux</li>
