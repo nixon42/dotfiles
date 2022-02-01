@@ -1,5 +1,6 @@
 #!/bin/sh
 #st
 st sh -c "neofetch && bash" &
+st sh -c "tty-clock && bash" &
 sleep 0.1
 st sh -c "btop && bash" 
